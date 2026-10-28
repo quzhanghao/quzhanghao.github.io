@@ -1,3 +1,4 @@
+https://quzhanghao.me/2026/10/28/ArchLinux-MinIO%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/
 https://quzhanghao.me/2026/10/23/%E9%98%BF%E9%87%8C%E4%BA%91%E8%BD%BB%E9%87%8F%E6%9C%8D%E5%8A%A1%E5%99%A8_Ubuntu%E8%BF%81%E7%A7%BBArchLinux_%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/
 https://quzhanghao.me/base64.html
 https://quzhanghao.me/certificate-check.html
@@ -58,3 +59,4 @@ https://quzhanghao.me/tags/%E5%BE%AE%E5%8D%9A/
 https://quzhanghao.me/tags/ArchLinux/
 https://quzhanghao.me/tags/Ubuntu/
 https://quzhanghao.me/tags/%E9%98%BF%E9%87%8C%E4%BA%91/
+https://quzhanghao.me/tags/MinIO/
